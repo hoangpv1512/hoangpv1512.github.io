@@ -18,12 +18,12 @@ author_profile: true
 ### [Stochastic multiple target sampling gradient descent](https://scholar.google.com/citations?view_op=view_citation&hl=vi&user=O7PMqaoAAAAJ&citation_for_view=O7PMqaoAAAAJ:UeHWp8X0CEIC)
 _Under review, 2022_
 
-**Hoang Phan**, Ngoc Tran, Trung Le, Toan Tran, Nhat Ho, Dinh Phung.
+**Hoang Phan**, Ngoc Tran, Trung Le, Toan Tran, Nhat Ho, Dinh Phung
 
 ### [Global-Local Regularization Via Distributional Robustness](https://scholar.google.com/citations?view_op=view_citation&hl=vi&user=O7PMqaoAAAAJ&citation_for_view=O7PMqaoAAAAJ:2osOgNQ5qMEC)
 _Under review, 2022_
 
-**Hoang Phan**, Trung Le, Trung Phung, Anh Bui, Nhat Ho, Dinh Phung. 
+**Hoang Phan**, Trung Le, Trung Phung, Anh Bui, Nhat Ho, Dinh Phung
 
 ### [Reducing catastrophic forgetting in neural networks via Gaussian mixture approximation](https://scholar.google.com/citations?view_op=view_citation&hl=vi&user=O7PMqaoAAAAJ&citation_for_view=O7PMqaoAAAAJ:qjMakFHDy7sC)
 _Advances in Knowledge Discovery and Data Mining. PAKDD. Lecture Notes in Computer Science. Springer, 2022_
@@ -39,9 +39,9 @@ _Proceedings of the 8th Workshop on Argument Mining. Association for Computation
 _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. p. 4245-4252_
 
 
-Tam Minh Nguyen, Quang Huu Pham, Linh Bao Doan, Hoang Viet Trinh, Viet Anh Nguyen and **Hoang Viet Phan**.
+Tam Minh Nguyen, Quang Huu Pham, Linh Bao Doan, Hoang Viet Trinh, Viet Anh Nguyen and **Hoang Viet Phan**
 
 ### S-NLP at ICDAR 2021:  Multimodal Emotion Recognition on Comics scenes
-
-Quang Huu Pham, **Viet Hoang Phan**, Viet Hoang Trinh, Viet Anh Nguyen and Viet Hoai Nguyen.
 _Submitted to International Conference on Document Analysis and Recognition Workshops_
+
+Quang Huu Pham, **Viet Hoang Phan**, Viet Hoang Trinh, Viet Anh Nguyen and Viet Hoai Nguyen
